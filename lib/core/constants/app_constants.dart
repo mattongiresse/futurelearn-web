@@ -5,9 +5,9 @@ class AppConstants {
   
   // Coordonnées (à modifier avec les vraies infos)
   static const String email = 'contact@futureleanandservice.com';
-  static const String phone = '+237 6XX XXX XXX';
-  static const String whatsapp = '+2376XXXXXXXX'; // Format international sans espaces
-  static const String address = 'Votre adresse complète ici';
+  static const String phone = '237 690 832 863';
+  static const String whatsapp = '237690832863'; // Format international sans espaces
+  static const String address = 'mattongiressem@gmail.com';
 
   // Réseaux sociaux (optionnel)
   static const String facebookUrl = '';
